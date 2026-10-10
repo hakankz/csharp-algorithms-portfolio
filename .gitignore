@@ -1,0 +1,9 @@
+# Visual Studio and generated files
+.vs/
+**/bin/
+**/obj/
+**/packages/
+*.user
+*.suo
+*.log
+.DS_Store
